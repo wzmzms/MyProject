@@ -1,1 +1,1 @@
-This project use less + media + rem
+### This project is mobile web development
